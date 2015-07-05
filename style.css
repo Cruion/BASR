@@ -1,0 +1,33 @@
+.left {
+	background-color: #B87FD1;
+	color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: inherit;
+}
+
+.right {
+	background-color: #8BE3BA;
+}
+
+.btn-warning {
+	background-color: lightgray;
+}
+
+.btn-warning:hover {
+	background-color: lightgray;
+}
+
+.btn-warning:active, .btn-warning:focus {
+	background-color: lightgray;
+}
+
+a .left {
+	color: white;
+}
+
+a .right {
+	color: black;
+}
+
